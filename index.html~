@@ -6,8 +6,7 @@
 　　</head>
 　　<body>
 
-　　　　这是文本部分。我想和你结婚！
-	This is the text area. I wanna marry you!
+　　　　{{ content }}
 
 　　</body>
 　　</html>
